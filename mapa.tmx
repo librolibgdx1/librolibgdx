@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="2019.10.08" orientation="orthogonal" renderorder="right-down" compressionlevel="-1" width="30" height="40" tilewidth="16" tileheight="16" infinite="0" nextlayerid="9" nextobjectid="1">
+ <tileset firstgid="1" source="tileset.tsx"/>
+ <layer id="1" name="Fondo" width="30" height="40">
+  <data encoding="base64" compression="zlib">
+   eJy9V1tuwkAMDLR7jFA4Rlu4/7Xwx1paWR4/Ez5GIDYZ2+PXsm/btjdwIVwJX4Rvwph4zDMJfvY3CMQ/AL+0w+9Iu3+Ef8KT8ErwXoAGlhZj2nhNXRA8raU2+/J5I/wQ7oJzjRHBy4HUin/TzhAnes7DGrvksHTWEM2r5fdqy8ud5EY1hGyhOvFyJ7lRDSF7loYcu5ZHyZ3Nv9UbjFXDTl1lkenLKCK+d9/Pas3nn9I1E+/RtaT1b8Yu6slqvBXNh/O+FS/aV/wd7XANUf+je9zqNwRvR0dsZPrX2x1y9lo2pHaWlhqXtqM9G9G7E9eMxbXareQO5SiCffpSncNVf7kGovOiU2uSt8Nl3WmG8kyHKws0U46Y8RaQP6ztWfsQ+VPNZWbGaOjOxGo9RP09MueezmfegTp3WM/36O5YZ5g2/4/UIDLDvBmfmcvsd3f+V+dzRLtsL2V1jv6frPaHjPeMvvH43itwyUw=
+  </data>
+ </layer>
+ <layer id="3" name="Rocas" width="30" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztzLcNAkAMRuHT9WSWILMEmSXILEFmCTKj8hDXunKH/id9cmHLISillFJKKaWU+paLIeRRQBEllONvl2Fmo+/G2tVQRwNNtNBOPyvMqvPG2vXQxwBDjDBOPzvMrvPG2s0wxwJLrLBOPyfMqfPG2u2wxwFHnHBOPzfMrfPG2t1wxwNPvPBOPy/Mq/PG2in1T30AyPw6OQ==
+  </data>
+ </layer>
+ <layer id="2" name="Terreno" width="30" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztklkKgDAMRL2F6y1cb2Fd7n8WR7BQQmyq/sk8eF+FTJokywghhBBCCCGEkP9TwBJWsIaNYW6o1dPeOtjDAY5wMmwjxrKlDi5whRvcDWfFlCzZv1bH617Uv8vS+g//HJtVyj+81s5lrtzVF4urlnZDMtfPNHY/lmG2rO9vSMuVe31q2IN2M2fWAdT1LxE=
+  </data>
+ </layer>
+ <layer id="5" name="Nubes" width="30" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt0sVNBVEAhtGZPW414FYDbjXgVgNuNeBWE2414Lbi7IAXkpkMjwXJ/ZKzmsm9d/FH0WfVcRTVUEsd9TTQSBPNtNAaR3mtzXntdNBJF9300Esf/QykuPeIY0445YxzLrjM+XfQeUMMM8IoY4wzwSRTTKe495Y77nngkSeeecl5wxXX3DDv7AUWWWKZFVZZS3FvgX8KKaKYEkopozz+/oZX3nhny7dtdthlj30OOExxb9JWvr6hgkqq8rCbpK381V6TtpJ1r0nNOGOWufjnrWTda1LrzthgM/55K1n3+tuy7jUUCoVCoVAoFAqFQv+7D6pZSN8=
+  </data>
+ </layer>
+ <layer id="4" name="Arboles" width="30" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt09tNQlEQhWFmqzWIAio1eAEUqxBQq/ACVqGgVCF4qQIVqcILIFKDKPw0MDwwhoTMyvkyyXlY62lHIh6Px+PxeDzzmQ66+EIP3+gb9LYndQsfAhawiCWZfnc4oTvOTWAN69hA0mA3Jnp3mpvBLvaQxb7Bbkr07hw3jwIOcYRjg90D0btPuWc4RxElXBjsnojefcUto4Jr3KBqsHspeneNW8cd7vGAR4PdW9G7n7jPeEETr2gZ7DZE737nfuATbXTQNdh9E717wP3FH4bjf4G3Hqbf/RG9O8pdwSpiiCNhsLsc9O4t7jZ2kEIaGYPdzfB/3R6PZ7YZAatNTp8=
+  </data>
+ </layer>
+ <layer id="7" name="Hierva" width="30" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzty8kJwDAMBVGR/tvIXkX2KrI3ku9jBAZDjpkHA5aQzQAAAAAAf1RkZqWqVK0a1UZ24Z1n7z9+Tr3p1aBGNalZLZFdeHfuj59Tbza1q0Od6lJ3ZBfeq/vj59QbAN89XhZFdg==
+  </data>
+ </layer>
+ <layer id="8" name="Plataformas" width="30" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt1LsRgCAURNEF/JSBQv91KdqEW4LRC5h7Zm682UoAgJldSbrdcI97U8xuydLiVre5PcfsVu8c7nTN9aBdAP/wSTG7AADM5gMj7grJ
+  </data>
+ </layer>
+</map>
